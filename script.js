@@ -6,4 +6,4 @@ for (let i = 0; i <= number; i++) {
     n1 = n2;
     n2 = nextTerm;
 }
-console.log(nextTerm);
+document.write(nextTerm);
